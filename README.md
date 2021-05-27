@@ -1,4 +1,6 @@
 # Website cloud.italia.it
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Flibremente%2Fcloud.italia.it-site.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Flibremente%2Fcloud.italia.it-site?ref=badge_shield)
+
 The website is built using the [Gatsby](https://www.gatsbyjs.com/) framework.
 
 ## Requirements
@@ -18,3 +20,7 @@ yarn develop
 At the end of the build process, the website is available at http://localhost:8000/.
 
 For more information about contributing and the gitflow see [contributing](CONTRIBUTING.md).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Flibremente%2Fcloud.italia.it-site.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Flibremente%2Fcloud.italia.it-site?ref=badge_large)
